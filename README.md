@@ -1,1 +1,1 @@
-# Temporery storage for my PCB developemnt.
+# Temporary storage for my PCB development.
